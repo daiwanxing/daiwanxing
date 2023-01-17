@@ -1,6 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiwanxing&layout=compact" />
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daiwanxing&layout=compact)](https://github.com/daiwanxing/github-readme-stats)
 
 ## Hi. I'm Wonder Dai🖐️.
 
