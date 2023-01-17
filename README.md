@@ -1,4 +1,4 @@
-![Wonder Dai Github Stats](https://github-readme-stats.vercel.app/api?username=daiwanxing&show_icons=true&theme=radical)
+![WonderDai Github Stats](https://github-readme-stats.vercel.app/api?username=daiwanxing&show_icons=true&theme=radical)
 
 Hi. I'm Wonder Dai🖐️.
 
