@@ -1,5 +1,9 @@
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiwanxing&layout=compact" align="right" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=daiwanxing" align="right" />
 
-## Hi. I'm Wonder Dai🖐️.
+![WonderDai GitHub stats](https://github-readme-stats.vercel.app/api?username=daiwanxing&show_icons=true&theme=onedark)
 
-I am a frontend web developer from China.
+<hr />
+
+## Hi There🖐️.
+
+I'm Wonder Dai, a web developer from China.
