@@ -4,6 +4,6 @@
 
 <hr />
 
-# Hi There🖐️.
+# Hi There 👋.
 
 I'm Wonder Dai, a web developer from China.
