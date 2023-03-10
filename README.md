@@ -12,11 +12,12 @@ I'm come from Yiyang, Hunan.
 
 ## 🔭 I'm currently working on
 
-- My old projects
-- Restaurant Recommendation App (React-Native)
-- Mobile + Desktop Spotify Clone (Working on it soon...)
-- My next blog
-- My CSS skill
+- write blogs
+- Contribute for MDN,Vitepress and vitest
+- write util tools
+- research cesium api
+- write css animations
+- develop sass appliaciton
 
 ## 🌱 I'm currently learning
 
@@ -34,7 +35,7 @@ I'm come from Yiyang, Hunan.
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plasti&logo=node.js&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plasti&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plasti&logo=html5&logoColor=white)
-![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plasti&logo=webpack&logoColor=black)
+![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=plasti&logo=webpack&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plasti&logo=git&logoColor=white)
 
 ## 📈 GitHub Stats 
