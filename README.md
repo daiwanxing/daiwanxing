@@ -7,7 +7,7 @@ I'm a Web Developer 💻, Catman 🐈, and Amateur Chef 🍖!
 </h2> 
 
 <h4 align="center">
-Also come from Changsha City.
+Also come from ChangSha.
 </h2> 
 
 ## 🔭 I'm currently working on
