@@ -13,7 +13,7 @@ I'm come from Yiyang, Hunan.
 ## 🔭 I'm currently working on
 
 - write blogs
-- Contribute for MDN,Vitepress and vitest
+- contribute for MDN,Vitepress and Vitest
 - write util tools
 - research cesium api
 - write css animations
