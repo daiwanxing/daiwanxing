@@ -7,7 +7,7 @@ I'm a Web Developer 💻, Catman 🐈, and Amateur Chef 🍖!
 </h2> 
 
 <h4 align="center">
-From Yiyang, Hunan.
+I'm come from Yiyang, Hunan.
 </h2> 
 
 ## 🔭 I'm currently working on
