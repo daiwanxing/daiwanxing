@@ -28,7 +28,7 @@ Also come from ChangSha.
 
 ## 🎯 Technical Skills
 
-![](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plastic&logo=vuedotjs&logoColor=%234FC08D)
+![vuejs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plasti&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plasti&logo=javascript&logoColor=%23F7DF1E)
