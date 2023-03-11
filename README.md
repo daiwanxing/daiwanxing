@@ -13,10 +13,10 @@ Also come from ChangSha.
 ## 🔭 I'm currently working on
 
 - write blogs
-- contribute for MDN,Vitepress and Vitest
+- write some challenge css animations
 - write util tools
+- contribute for MDN,Vitepress and Vitest
 - research cesium api
-- write css animations
 - develop sass appliaciton
 
 ## 🌱 I'm currently learning
