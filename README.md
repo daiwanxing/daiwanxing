@@ -1,14 +1,12 @@
 <h2 align="center">
 Hi there, I'm Wonder Dai 👋
-</h3>
+</h2>
 
 <h3 align="center">
-I'm a Web Developer 💻, Catman 🐈, and Amateur Chef 🍖!
-</h2> 
+I'm a Web Developer 💻
+</h3> 
 
-<h4 align="center">
-Also come from ChangSha.
-</h2> 
+<h3 align="center">My hobby: 🚵‍ 🧗‍♂️</h3>
 
 ## 🔭 I'm currently working on
 
