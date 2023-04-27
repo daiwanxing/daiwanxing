@@ -1,12 +1,10 @@
 <h2 align="center">
-Hi there, I'm Wonder Dai 👋
+Hi there, I'm Wonder Dai
 </h2>
 
 <h3 align="center">
-I'm a Web Developer 💻
+FE 💻,  love riding 🚴‍♂️. 
 </h3> 
-
-<h3 align="center">My hobby: 🚵‍ 🧗‍♂️</h3>
 
 ## 🔭 I'm currently working on
 
