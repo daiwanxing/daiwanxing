@@ -1,28 +1,18 @@
 <h2 align="center">
-Hi there, I'm Wonder Dai
+Hi there😀, 
 </h2>
 
 <h3 align="center">
-FE 💻,  love riding 🚴‍♂️. 
+I'm Daiwanxing, FrontEnd Dev💻, love riding🚴‍♂,Humanities Photography. 
 </h3> 
-
-## 🔭 I'm currently working on
-
-- write blogs
-- write some challenge css animations
-- write util tools
-- contribute for MDN,Vitepress and Vitest
-- research cesium api
-- develop sass appliaciton
 
 ## 🌱 I'm currently learning
 
 - Nuxt
-- Vitest
-- CSS Annimation
-- Cesium  
+- Koajs
+- Tailwind.css
 
-## 🎯 Technical Skills
+## 🎯 My Technical Skills
 
 ![vuejs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
@@ -36,13 +26,13 @@ FE 💻,  love riding 🚴‍♂️.
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plasti&logo=nginx&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plasti&logo=SASS&logoColor=white)
 
-## 🛠️ Dev Tools
+## 🛠️ My Dev Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plasti&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plasti&logo=Windows%2011&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plasti&logo=notion&logoColor=white)
 ![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plasti&logo=GoogleChrome&logoColor=white)
 
-## 📈 GitHub Stats 
+## 📈 My GitHub Stats 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=daiwanxing)](https://github.com/yushi1007)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=daiwanxing&rank_icon=github)
