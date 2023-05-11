@@ -29,7 +29,7 @@ I'm Daiwanxing, FrontEnd Dev💻, love riding🚴‍♂,Humanities Photography.
 ![tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plasti&logo=tailwind-css&logoColor=white)
 
 
-## 🛠️ My Dev Tools
+## 🛠️ My Dev Env And Tools
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plasti&logo=visual-studio-code&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=plasti&logo=Windows%2011&logoColor=white)
