@@ -25,6 +25,9 @@ I'm Daiwanxing, FrontEnd Dev💻, love riding🚴‍♂,Humanities Photography.
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plasti&logo=git&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plasti&logo=nginx&logoColor=white)
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=plasti&logo=SASS&logoColor=white)
+![nuxt](https://img.shields.io/badge/nuxt.js-00C58E?style=plasti&logo=nuxtdotjs&logoColor=white)
+![tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plasti&logo=tailwind-css&logoColor=white)
+
 
 ## 🛠️ My Dev Tools
 
