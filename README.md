@@ -8,9 +8,9 @@ I'm Daiwanxing, FrontEnd Dev💻, love riding🚴‍♂,Humanities Photography.
 
 ## 🌱 I'm currently learning
 
-- Nuxt
-- Koajs
-- Tailwind.css
+- **Nuxt**
+- **Koa.js**
+- **Tailwind.css**
 
 ## 🎯 My Technical Skills
 
