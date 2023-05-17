@@ -1,9 +1,9 @@
 <h2 align="center">
-Hi there😀, 
+Hi there 😀
 </h2>
 
 <h3 align="center">
-I'm Daiwanxing, FrontEnd Dev💻, love riding🚴‍♂,Humanities Photography. 
+I'm Daiwanxing, A FrontEnd Dev💻, love riding bicycle🚴‍♂ and Photography📷. 
 </h3> 
 
 ## 🌱 I'm currently learning
