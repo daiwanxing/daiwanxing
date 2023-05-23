@@ -10,7 +10,7 @@ I'm Daiwanxing, A FrontEnd Dev💻, love riding bicycle🚴‍♂ and Photograph
 
 - **Nuxt**
 - **Koa.js**
-- **Tailwind.css**
+- **Uno.css**
 
 ## 🎯 My Technical Skills
 
