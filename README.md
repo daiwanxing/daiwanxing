@@ -8,9 +8,9 @@ I'm Daiwanxing, A FrontEnd Dev💻, love riding bicycle🚴‍♂ and Photograph
 
 ## 🌱 I'm currently learning
 
-- **Nuxt**
-- **Koa.js**
-- **Uno.css**
+- **[Nuxt](https://nuxt.com/v3)**
+- **[Koa.js](https://koajs.com/)**
+- **[Uno.css](https://unocss.dev/)**
 
 ## 🎯 My Technical Skills
 
