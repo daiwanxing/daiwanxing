@@ -3,7 +3,7 @@ Hi there 😀
 </h2>
 
 <h3 align="center">
-I'm Daiwanxing, A FrontEnd Dev💻, love riding bicycle🚴‍♂ and Photography📷. 
+I'm Daiwanxing, A FrontEnd Dev💻, love riding bicycle🚴‍♂ and running. 
 </h3> 
 
 ## 🌱 I'm currently learning
