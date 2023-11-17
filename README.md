@@ -3,7 +3,7 @@ Hi there (●'◡'●)
 </h2>
 
 <h3 align="center">
-I'm daiwanxing, A FrontEnd Dev💻, my hobbies include fitness, mountain climbing, and cycling.
+I'm daiwanxing, A FrontEnd Dev💻, my hobbies include fitness, hiking, and cycling.
 </h3> 
 
 ## 🌱 I'm currently learning
