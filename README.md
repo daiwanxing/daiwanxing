@@ -3,14 +3,12 @@ Hi there (●'◡'●)
 </h2>
 
 <h3 align="center">
-I'm Daiwanxing, A FrontEnd Dev💻, love riding bicycle🚴‍♂ and running. 
+I'm daiwanxing, A FrontEnd Dev💻, my hobbies include fitness, mountain climbing, and cycling..
 </h3> 
 
 ## 🌱 I'm currently learning
 
-- **[Nuxt](https://nuxt.com/v3)**
-- **[Koa.js](https://koajs.com/)**
-- **[Uno.css](https://unocss.dev/)**
+- **[svelte]([https://nuxt.com/v3](https://svelte.dev/))**
 
 ## 🎯 My Technical Skills
 
