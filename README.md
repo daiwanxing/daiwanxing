@@ -8,7 +8,7 @@ I'm daiwanxing, A FrontEnd Dev💻, my hobbies include fitness, mountain climbin
 
 ## 🌱 I'm currently learning
 
-- **[svelte]([https://nuxt.com/v3](https://svelte.dev/))**
+- **[svelte](https://svelte.dev/)**
 
 ## 🎯 My Technical Skills
 
