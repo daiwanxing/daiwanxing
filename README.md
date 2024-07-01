@@ -8,7 +8,7 @@ I'm Klein, A FrontEnd Dev💻
 
 ## 🌱 I'm currently learning
 
-- **[react]([https://svelte.dev/](https://react.dev/))**
+- **[React](https://react.dev/)**
 
 ## 🎯 My Technical Skills
 
