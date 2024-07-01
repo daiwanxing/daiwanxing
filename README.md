@@ -1,14 +1,14 @@
 <h2 align="center">
-Hi there (●'◡'●)
+Hi there
 </h2>
 
 <h3 align="center">
-I'm Klein, A FrontEnd Dev💻, my hobbies include fitness, hiking, and cycling.
+I'm Klein, A FrontEnd Dev💻
 </h3> 
 
 ## 🌱 I'm currently learning
 
-- **[svelte](https://svelte.dev/)**
+- **[react]([https://svelte.dev/](https://react.dev/))**
 
 ## 🎯 My Technical Skills
 
