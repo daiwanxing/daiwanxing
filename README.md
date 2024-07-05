@@ -9,6 +9,7 @@ I'm Klein, A FrontEnd Dev💻
 ## 🌱 I'm currently learning
 
 - **[React](https://react.dev/)**
+- **[zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)**
 
 ## 🎯 My Technical Skills
 
