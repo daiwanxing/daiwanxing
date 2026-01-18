@@ -3,15 +3,21 @@ Hi there
 </h2>
 
 <h3 align="center">
-I'm Klein, A FrontEnd Dev💻
+I'm Klein, A Vibe Coder & AI-Augmented Developer 🤖
 </h3> 
 
 ## 🌱 I'm currently learning
 
-- **[React](https://react.dev/)**
-- **[zustand](https://docs.pmnd.rs/zustand/getting-started/introduction)**
+- **AI Agent Frameworks**
+- **Prompt Engineering Best Practices**
+- **LLM Context Optimization**
+- **Sub Agent**
+- **MCP**
+- **SKILLS**
 
-## 🎯 My Technical Skills
+## 🎯 My Technical Skills (Or My Agents' Skills?) 🤖
+
+说实话，我的主要技能是**指挥 (Agents)** 替我干活。如果它们罢工了，我可能得花点时间想起来 `flexbox` 怎么写。
 
 ![vuejs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
@@ -28,11 +34,12 @@ I'm Klein, A FrontEnd Dev💻
 ![tailwind.css](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=plasti&logo=tailwind-css&logoColor=white)
 
 
-## 🛠️ My Dev Tools
+## 🛠️ My AI & Dev Tools
 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plasti&logo=visual-studio-code&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-8E44AD?style=plasti&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plasti&logo=openai&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-0078d7?style=plasti&logo=visualstudiocode&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plasti&logo=notion&logoColor=white)
-![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?style=plasti&logo=GoogleChrome&logoColor=white)
 
 ## 📈 My GitHub Stats 
 
