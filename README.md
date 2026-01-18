@@ -14,10 +14,11 @@ I'm Klein, A Vibe Coder & AI-Augmented Developer 🤖
 - **Sub Agent**
 - **MCP**
 - **SKILLS**
+- **Slash Commands**
 
 ## 🎯 My Technical Skills (Or My Agents' Skills?) 🤖
 
-说实话，我的主要技能是**指挥 (Agents)** 替我干活。如果它们罢工了，我可能得花点时间想起来 `flexbox` 怎么写。
+Today, without Claude code. I'm nothing.😂
 
 ![vuejs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
