@@ -3,7 +3,7 @@ Hi there
 </h2>
 
 <h3 align="center">
-I'm Klein, A Vibe Coder & AI-Augmented Developer 🤖
+I'm Wanshin, A Vibe Coder & AI-Augmented Developer 🤖
 </h3> 
 
 ## 🌱 I'm currently learning
@@ -15,10 +15,11 @@ I'm Klein, A Vibe Coder & AI-Augmented Developer 🤖
 - **MCP**
 - **SKILLS**
 - **Slash Commands**
+- ...
 
 ## 🎯 My Technical Skills (Or My Agents' Skills?) 🤖
 
-Today, without Claude code. I'm nothing.😂
+To be honestly, Without Claude Code. I'm nothing.😂
 
 ![vuejs](https://img.shields.io/badge/vuejs-%2335495e.svg?style=plasti&logo=vuedotjs)
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plasti&logo=vite&logoColor=white)
@@ -38,9 +39,6 @@ Today, without Claude code. I'm nothing.😂
 ## 🛠️ My AI & Dev Tools
 
 ![Claude](https://img.shields.io/badge/Claude-8E44AD?style=plasti&logo=anthropic&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=plasti&logo=openai&logoColor=white)
-![Cursor](https://img.shields.io/badge/Cursor-0078d7?style=plasti&logo=visualstudiocode&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plasti&logo=notion&logoColor=white)
 
 ## 📈 My GitHub Stats 
 
